@@ -10,7 +10,7 @@ Ask for any missing required inputs in one message:
 - The full episode script, pasted or attached. Accept it in labeled parts if needed and confirm the final part has arrived before locking the shot plan.
 - A labeled reference image for each character whose appearance needs to stay consistent. Reuse existing references when the user identifies them. Ask for a missing or ambiguous image before generating shots that depend on it. Use images the user has permission to use.
 
-Optional inputs include an episode title, aspect ratio, target runtime override, recurring locations, wardrobe notes, and US regional accent preferences. Default to vertical 9:16, cinematic photorealism, American English accents, and a finished runtime of 9–10 minutes (540–600 seconds). There is no workflow cap on cast size, script length, or words per line. If a field or model has a technical limit, divide the work into consecutive parts and retain every scripted beat.
+Optional inputs include an episode title, aspect ratio, target runtime override, recurring locations, wardrobe notes, and US regional accent preferences. Default to landscape 16:9, cinematic photorealism, American English accents, and a finished runtime of 9–10 minutes (540–600 seconds). There is no workflow cap on cast size, script length, or words per line. If a field or model has a technical limit, divide the work into consecutive parts and retain every scripted beat.
 
 ## 2. Break down the supplied script
 
@@ -43,7 +43,7 @@ Generate the start image and verify faces and clothing before submitting video. 
 
 Place approved clips on the timeline in script order. Close unintended gaps and trim accidental frozen frames, silent leads and tails, and camera settling. Preserve intentional pauses, reaction shots, transitions, narration, and complete lines. Check story-day changes, matching wardrobe, eyelines, sound transitions, accent consistency, and the final timeline duration. Resolve runtime mismatches with editorial pacing where possible and get approval for script revisions when needed.
 
-Save and export the episode using the selected aspect ratio. For the default 9:16 workflow, use Full HD 1080 × 1920 MP4 when available. Verify the completed export and provide its link and actual duration. If VideoExpress cannot finish, report the specific blocker and retain the scene and shot plan and completed work so production can resume.
+Save and export the episode using the selected aspect ratio. For the default 16:9 workflow, use Full HD 1920 × 1080 MP4 when available. Verify the completed export and provide its link and actual duration. If VideoExpress cannot finish, report the specific blocker and retain the scene and shot plan and completed work so production can resume.
 
 ---
 
